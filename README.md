@@ -56,7 +56,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - Dataset sourced from **Kaggle**.
 - Special thanks to the open-source community for inspiration and resources.
 
-- ## Owner
+## Owner
 
 - **Project Owner :-** Shubham Parihar
 - **Link Of Linkedin :-** https://www.linkedin.com/in/shubhamparihar7/
